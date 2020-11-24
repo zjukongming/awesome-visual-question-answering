@@ -64,11 +64,27 @@ Markdown format:
 #### ECCV 2020
 
 - [Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1765_ECCV_2020_paper.php) - Gouthaman KV et al, **ECCV 2020**. 
+
+提出一个model-agnostic question encoder，在编码时平等的利用了视觉和语言模式，缓解了VQA问题中对语言先验的依赖
+
 - [Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3056_ECCV_2020_paper.php) - Noa Garcia et al, **ECCV 2020**. 
+
+基于知识的视频故事问答模型，利用三方面：对话理解、场景推理和故事情节回忆。
+
 - [Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3245_ECCV_2020_paper.php) - Ruixue Tang et al, **ECCV 2020**. 
+
+VQA数据增强，本文中并非直接改变图像和问题本身，而是采用对抗生成产生增强数据，然后使用对抗学习训练经典的VQA模型
+ 
 - [Visual Question Answering on Image Sets](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3640_ECCV_2020_paper.php) - Ankan Bansal et al, **ECCV 2020**. 
+
+利用多图像集合训练VQA模型
+
 - [VQA-LOL: Visual Question Answering under the Lens of Logic](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3742_ECCV_2020_paper.php) - Tejas Gokhale et al, **ECCV 2020**. 
+
+
 - [TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3752_ECCV_2020_paper.php) - Xiaofeng Yang et al, **ECCV 2020**. 
+
+
 - [Spatially Aware Multimodal Transformers for TextVQA](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/946_ECCV_2020_paper.php) - Yash Kant et al, **ECCV 2020**. 
 
 #### CVPR 2020
@@ -111,10 +127,10 @@ Markdown format:
 - [Overcoming Language Priors in VQA via Decomposed Linguistic Representations]() - Chenchen Jing et al, **AAAI 2020**. 
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA]() - Luowei Zhou et al, **AAAI 2020**. 
 - [Re‐Attention for Visual Question Answering]() - Wenya Guo et al, **AAAI 2020**. 
-- [Divide and Conquer: Question­‐Guided Spatio­‐Temporal Contextual Attention for Video Question Answering]() - Jianwen Jiang et al, **AAAI 2020**. 
+- [Divide and Conquer: Question-‐Guided Spatio-‐Temporal Contextual Attention for Video Question Answering]() - Jianwen Jiang et al, **AAAI 2020**. 
 - [Reasoning with Heterogeneous Graph Alignment for Video Question Answering]() - Pin Jiang et al, **AAAI 2020**. 
-- [Location­‐aware Graph Convolutional Networks for Video Question Answering]() - Deng  Huang et al, **AAAI 2020**. 
-- [KnowIT VQA: Answering Knowledge­‐Based Questions about Videos]() - Noa  Garcia et al, **AAAI 2020**. 
+- [Location-‐aware Graph Convolutional Networks for Video Question Answering]() - Deng  Huang et al, **AAAI 2020**. 
+- [KnowIT VQA: Answering Knowledge-‐Based Questions about Videos]() - Noa  Garcia et al, **AAAI 2020**. 
 
 ### 2019
 
