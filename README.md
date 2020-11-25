@@ -81,8 +81,10 @@ VQA数据增强，本文中并非直接改变图像和问题本身，而是采�
 
 - [VQA-LOL: Visual Question Answering under the Lens of Logic](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3742_ECCV_2020_paper.php) - Tejas Gokhale et al, **ECCV 2020**. 
 
+主要针对存在逻辑连词的复合型问题
 
 - [TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3752_ECCV_2020_paper.php) - Xiaofeng Yang et al, **ECCV 2020**. 
+
 
 
 - [Spatially Aware Multimodal Transformers for TextVQA](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/946_ECCV_2020_paper.php) - Yash Kant et al, **ECCV 2020**. 
@@ -96,6 +98,9 @@ VQA数据增强，本文中并非直接改变图像和问题本身，而是采�
 - [Counterfactual Vision and Language Learning](http://openaccess.thecvf.com/content_CVPR_2020/html/Abbasnejad_Counterfactual_Vision_and_Language_Learning_CVPR_2020_paper.html) - Ehsan Abbasnejad et al, **CVPR 2020**. 
 - [Iterative Answer Prediction With Pointer-Augmented Multimodal Transformers for TextVQA](http://openaccess.thecvf.com/content_CVPR_2020/html/Hu_Iterative_Answer_Prediction_With_Pointer-Augmented_Multimodal_Transformers_for_TextVQA_CVPR_2020_paper.html) - Ronghang Hu et al, **CVPR 2020**. 
 - [Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](http://openaccess.thecvf.com/content_CVPR_2020/html/Agarwal_Towards_Causal_VQA_Revealing_and_Reducing_Spurious_Correlations_by_Invariant_CVPR_2020_paper.html) - Vedika Agarwal et al, **CVPR 2020**. 
+
+提出一种新的度量方法；提出一个GAN-based的合成数据集用于评估和改善已有模型的性能
+
 - [SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions](http://openaccess.thecvf.com/content_CVPR_2020/html/Selvaraju_SQuINTing_at_VQA_Models_Introspecting_VQA_Models_With_Sub-Questions_CVPR_2020_paper.html) - Ramprasaath R. Selvaraju et al, **CVPR 2020**. 
 - [TA-Student VQA: Multi-Agents Training by Self-Questioning](http://openaccess.thecvf.com/content_CVPR_2020/html/Xiong_TA-Student_VQA_Multi-Agents_Training_by_Self-Questioning_CVPR_2020_paper.html) - Peixi Xiong et al, **CVPR 2020**. 
 - [VQA With No Questions-Answers Training](http://openaccess.thecvf.com/content_CVPR_2020/html/Vatashsky_VQA_With_No_Questions-Answers_Training_CVPR_2020_paper.html) - Ben-Zion Vatashsky et al, **CVPR 2020**. 
